@@ -1,3 +1,13 @@
+[![Build Status](https://travis-ci.org/vStone/fpm.svg?branch=develop)](https://travis-ci.org/vStone/fpm)
+
+# This repo / branch ...
+
+Is used for merging and testing various pull requests.
+
+The goal is to get travis in all greens again. Even if new tests are added
+
+
+
 # Effing Package Management
 
 ## Preface
